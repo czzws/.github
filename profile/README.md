@@ -14,7 +14,8 @@
 4. 我们做过大型MMORPG，有着微服务的理念，可以依托k8s，把各种AI服务进行编排
 5. 我们大量的游戏运营，玩家论坛发帖数据，这些是宝贵的数据集
 6. 基于以上，我们可以把智能家居的一些设备引入进来（往宏观想，如智能工厂，农场，牧场）
-   ![image](https://github.com/czzws/.github/profile/20230922-163525.png)
+  ![image](https://github.com/czzws/.github/assets/1317911/298b0d24-7937-4a63-acac-12806da3f3e1)
+
 
 
 核心理念
